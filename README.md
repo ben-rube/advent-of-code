@@ -2,8 +2,8 @@
 
 ## 2021
 
-![](https://img.shields.io/badge/21-day%20📅-24-blue)	
+![](https://img.shields.io/badge/day%20📅-24-blue)	
 
-![](https://img.shields.io/badge/21-stars%20⭐-14-yellow)	
+![](https://img.shields.io/badge/stars%20⭐-14-yellow)	
 
-![](https://img.shields.io/badge/21-days%20completed-7-red)
+![](https://img.shields.io/badge/days%2021-completed-7-red)
