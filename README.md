@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/stars%20⭐-14-purple)	
 
-![](https://img.shields.io/badge/days%20-completed-7-00FFFF)
+![](https://img.shields.io/badge/days%20completed-17-00FFFF)
 
 ## 2021
 
