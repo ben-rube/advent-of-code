@@ -14,4 +14,4 @@
 
 ![](https://img.shields.io/badge/stars%20⭐-14-yellow)	
 
-![](https://img.shields.io/badge/days%20-completed--7-red)
+![](https://img.shields.io/badge/days%20-completed-7-red)
